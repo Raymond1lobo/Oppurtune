@@ -10,8 +10,9 @@ These are the uncompiled final capstone project app. This project was made using
    3) do "pip install -r requirements.txt"
    4) do "npm install"
    5) do "npm run build"
-   6) Then do "python server.py", This starts the localhost server.
-   7) Then do "python client.py", This starts the clients, you can launch as many clients as you want.
+   7) Then do "python server.py" in the directory, This starts the localhost server.
+   8) Either download Oppurtune.exe from releases, or do the next step.
+   9) Then do "python client.py" in the directory, This starts the clients, you can launch as many clients as you want.
 
 # Features
    1) While registering, if you add @school to your email, you get the ability to create events
@@ -21,7 +22,7 @@ These are the uncompiled final capstone project app. This project was made using
    5) Ability to have up to 10 clients active
    6) Ability to register for events
    7) Ability to age restrict events
-   8) Ability to earn badges(as an organizer AND a user)
+   8) Ability to earn 8 badges(as an organizer AND a user)
    9) Waitlist for events
    10) Ability to de-register from events
    11) Ability to ask questions to the organizer
@@ -30,4 +31,6 @@ These are the uncompiled final capstone project app. This project was made using
    14) Ability to view events that you have registered for
    15) Ability to add documents for registered users
    16) Ability to remove users from events (as an organizer)
-   17) Ability to have a customizable form at the start of the event
+   17) Ability to have a customizable form at the start of the event.
+   18) Animations for badges
+   19) Animations for UI
