@@ -34,3 +34,4 @@ These are the uncompiled final capstone project app. This project was made using
    17) Ability to have a customizable form at the start of the event.
    18) Animations for badges
    19) Animations for UI
+   20) While starting server.py add the --visual flag to open a visual menu instead of the terminal menu.
