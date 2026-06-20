@@ -1,8 +1,0 @@
-{
-  "name": "Remix: Remix: Digital Pathways 3.0",
-  "description": "A premium SaaS platform for event discovery, custom registration forms, and automated real-time notifications for organizers and participants.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
