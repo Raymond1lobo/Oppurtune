@@ -24,14 +24,11 @@ These are the uncompiled final capstone project app. This project was made using
    7) Ability to age restrict events
    8) Ability to earn 8 badges(as an organizer AND a user)
    9) Waitlist for events
-   10) Ability to de-register from events
-   11) Ability to ask questions to the organizer
-   12) Notification system
-   13) Ability to view registered participants
-   14) Ability to view events that you have registered for
-   15) Ability to add documents for registered users
-   16) Ability to remove users from events (as an organizer)
-   17) Ability to have a customizable form at the start of the event.
-   18) Animations for badges
-   19) Animations for UI
-   20) While starting server.py add the --visual flag to open a visual menu instead of the terminal menu.
+   10) Ability to ask questions to the organizer via contact details that they provide
+   11) Notification system
+   12) Ability to view registered participants
+   13) Ability to view events that you have registered for
+   14) Ability to have a customizable form at the start of the event.
+   15) Animations for badges
+   16) Animations for UI
+   17) While starting server.py add the --visual flag to open a visual menu instead of the terminal menu.
